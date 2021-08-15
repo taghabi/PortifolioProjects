@@ -1,5 +1,5 @@
 -- COVID 19 DATA EXPLORATION.
--- Data source:https://ourworldindata.org/covid-deaths
+-- Data source: https://ourworldindata.org/covid-deaths
 -- Data analysis on covid using data up until August 8th 2021.
 -- Skills used: 
 
